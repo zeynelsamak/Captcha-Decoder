@@ -25,7 +25,7 @@ A captcha solver that using machine learning(Nearest Neigbour) and deep learning
 ![alt text](https://i.imgur.com/RuU99I2.jpg "Example Result")
 
 ## TODO
-  - Extend the explaination of the work
+  - Extend the explanation of the work
   - Train the network without to parsing the letter. Feed whole image into the netwokr and predict the captcha text
 
 ## Acknowledgement
